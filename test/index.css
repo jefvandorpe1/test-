@@ -1,0 +1,115 @@
+h1, h2 {
+  border : solid;
+  color: navy;
+  text-align: center;
+}
+
+
+body {
+    background-color: lightblue;
+    
+}
+
+p{
+  text-align: left;
+  list-style-position: outside;
+  color:black;
+}
+
+ul.cardL {
+  list-style-type: circle;
+  display: block;
+  text-align: center;
+}
+
+.listSV{
+  background-color: #152d97; /* donderblauw */
+  border: none;
+  color: white;
+  padding: 5px 18px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius:8px;  
+}
+.listCZ{
+  background-color: #152d97; /* donderblauw */
+  border: none;
+  color: white;
+  padding: 5px 18px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius:8px;  
+}
+.listST{
+  background-color: #152d97; /* donderblauw */
+  border: none;
+  color: white;
+  padding: 5px 18px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius:8px;  
+}
+
+
+
+
+
+.button {
+    background-color: #152d97; /* donderblauw */
+    border: none;
+    color: white;
+    padding: 5px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius:8px;
+    width: 7%;
+  }
+
+.SV{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0px 5px 5px 5px;
+}
+.CZ{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0px 5px 5px 5px;
+}
+.ST{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0px 5px 5px 5px;
+}
+
+.GO{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0px 5px 5px 5px;
+}
+.AR{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0px 5px 5px 5px;
+}
+.BS{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0px 5px 5px 5px;
+}
+.FS{
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  margin: 0px 5px 5px 5px;
+}
